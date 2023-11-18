@@ -53,7 +53,9 @@ plt.show()
 
 ```
 ## Output
-![283498893-da330a41-9450-4650-9472-d642767c5b5c](https://github.com/Sudharsanram/Univariate-Linear-Regression/assets/119393980/4eb18e0d-4dda-4aff-b0f0-a94ccddca7fd)
+![Screenshot 2023-11-18 083753](https://github.com/Sudharsanram/Univariate-Linear-Regression/assets/119393980/33121f28-3c92-4907-972d-52d4679048a0)
+![Screenshot 2023-11-18 083854](https://github.com/Sudharsanram/Univariate-Linear-Regression/assets/119393980/245d8905-01d5-4635-8594-d7c7b43c0ef7)
+
 
 
 ## Result
